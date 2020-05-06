@@ -1,0 +1,5 @@
+track SmallRNA
+bigDataUrl small.bb
+shortLabel Small RNA
+longLabel Small RNA ENCODE3 20 samples read len 101bp
+type bigBed
