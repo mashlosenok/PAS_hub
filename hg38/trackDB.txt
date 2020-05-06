@@ -1,1 +1,11 @@
+track BRCA_norm
+bigDataUrl norm_sites_bil.bb
+shortLabel TCGA-BRCA norm
+longLabel TCGA-BRCA norm
+type bigBed
 
+track BRCA_cancer
+bigDataUrl cancer_sites_bil.bb
+shortLabel TCGA-BRCA cancer
+longLabel TCGA-BRCA cancer
+type bigBed
