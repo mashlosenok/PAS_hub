@@ -14,5 +14,5 @@ track BRCA_norm_vs_cancer
 bigDataUrl pas_norm_cancer_qval.bb
 shortLabel BRCA norm_vs_cancer
 longLabel TCGA-BRCA cancer and norm with counts and qval
-type bigBed
+type bigBed 9
 itemRgb on
