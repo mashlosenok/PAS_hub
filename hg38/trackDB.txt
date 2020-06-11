@@ -9,3 +9,10 @@ bigDataUrl cancer_sites_bil.bb
 shortLabel TCGA-BRCA cancer
 longLabel TCGA-BRCA cancer
 type bigBed
+
+track BRCA_norm_vs_cancer
+bigDataUrl pas_norm_cancer_qval.bb
+shortLabel BRCA norm_vs_cancer
+longLabel TCGA-BRCA cancer and norm with counts and qval
+type bigBed
+itemRgb on
