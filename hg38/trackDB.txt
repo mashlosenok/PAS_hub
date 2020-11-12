@@ -16,3 +16,10 @@ shortLabel BRCA norm_vs_cancer
 longLabel TCGA-BRCA cancer and norm with counts and qval
 type bigBed 9
 itemRgb on
+
+track BRCA_norm_vs_cancer_qfilt
+bigDataUrl pas_norm_cancer_qval_gennOv_sort_q09.bb
+shortLabel BRCA norm_vs_cancer q<0.9
+longLabel TCGA-BRCA cancer and norm with counts, filtered by qval
+type bigBed 9
+itemRgb on
