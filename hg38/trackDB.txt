@@ -1,29 +1,3 @@
-track BRCA_norm
-bigDataUrl norm_sites_bil.bb
-shortLabel TCGA-BRCA norm
-longLabel TCGA-BRCA norm
-type bigBed
-
-track BRCA_cancer
-bigDataUrl cancer_sites_bil.bb
-shortLabel TCGA-BRCA cancer
-longLabel TCGA-BRCA cancer
-type bigBed
-
-track old_BRCA_norm_vs_cancer
-bigDataUrl pas_norm_cancer_qval_gen_nOv.bb
-shortLabel old_BRCA norm_vs_cancer
-longLabel TCGA-BRCA cancer and norm with counts and qval
-type bigBed 9
-itemRgb on
-
-track BRCA_norm_vs_cancer_qfilt
-bigDataUrl pas_norm_cancer_qval_gennOv_sort_q09.bb
-shortLabel BRCA norm_vs_cancer q<0.9
-longLabel TCGA-BRCA cancer and norm with counts, filtered by qval
-type bigBed 9
-itemRgb on
-
 track norm_vs_cancer_BRCA
 bigDataUrl pas_norm_cancer_TCGA-BRCA.bb
 shortLabel BRCA norm_vs_cancer
