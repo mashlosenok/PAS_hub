@@ -1,152 +1,146 @@
 track TCGA-BRCA
-bigDataUrl pas_norm_cancer_TCGA-BRCA.bb
+bigDataUrl all_pas_TCGA-BRCA.bb
 shortLabel BRCA 
 longLabel TCGA-BRCA cancer and norm with counts
 type bigBed 9
-itemRgb on
 
 track TCGA-STAD
-bigDataUrl pas_norm_cancer_TCGA-STAD.bb
+bigDataUrl all_pas_TCGA-STAD.bb
 shortLabel STAD 
 longLabel TCGA-STAD cancer and norm with counts
 type bigBed 9
-itemRgb on
 
 track TCGA-PRAD
-bigDataUrl pas_norm_cancer_TCGA-PRAD.bb
+bigDataUrl all_pas_TCGA-PRAD.bb
 shortLabel PRAD 
 longLabel TCGA-PRAD cancer and norm with counts
 type bigBed 9
-itemRgb on
 
 track TCGA-THCA
-bigDataUrl pas_norm_cancer_TCGA-THCA.bb
+bigDataUrl all_pas_TCGA-THCA.bb
 shortLabel THCA 
 longLabel TCGA-THCA cancer and norm with counts
 type bigBed 9
-itemRgb on
 
 track TCGA-LUSC
-bigDataUrl pas_norm_cancer_TCGA-LUSC.bb
+bigDataUrl all_pas_TCGA-LUSC.bb
 shortLabel LUSC 
 longLabel LUSC cancer and norm with counts
 type bigBed 9
-itemRgb on
 
 track TCGA-LUAD
-bigDataUrl pas_norm_cancer_TCGA-LUAD.bb
+bigDataUrl all_pas_TCGA-LUAD.bb
 shortLabel LUAD 
 longLabel LUAD cancer and norm with counts
 type bigBed 9
-itemRgb on
 
 track TCGA-LIHC
-bigDataUrl pas_norm_cancer_TCGA-LIHC.bb
+bigDataUrl all_pas_TCGA-LIHC.bb
 shortLabel LIHC 
 longLabel LIHC cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-KIRC
-bigDataUrl pas_norm_cancer_TCGA-KIRC.bb
+bigDataUrl all_pas_TCGA-KIRC.bb
 shortLabel KIRC 
 longLabel KIRC cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-HNSC
-bigDataUrl pas_norm_cancer_TCGA-HNSC.bb
+bigDataUrl all_pas_TCGA-HNSC.bb
 shortLabel HNSC 
 longLabel HNSC cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-ESCA
-bigDataUrl pas_norm_cancer_TCGA-ESCA.bb
+bigDataUrl all_pas_TCGA-ESCA.bb
 shortLabel ESCA 
 longLabel ESCA cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-KIRP
-bigDataUrl pas_norm_cancer_TCGA-KIRP.bb
+bigDataUrl all_pas_TCGA-KIRP.bb
 shortLabel KIRP 
 longLabel KIRP cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-KICH
-bigDataUrl pas_norm_cancer_TCGA-KICH.bb
+bigDataUrl all_pas_TCGA-KICH.bb
 shortLabel KICH 
 longLabel KICH cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-COAD
-bigDataUrl pas_norm_cancer_TCGA-COAD.bb
+bigDataUrl all_pas_TCGA-COAD.bb
 shortLabel COAD 
 longLabel COAD cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-UCEC
-bigDataUrl pas_norm_cancer_TCGA-UCEC.bb
+bigDataUrl all_pas_TCGA-UCEC.bb
 shortLabel UCEC 
 longLabel UCEC cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-BLCA
-bigDataUrl pas_norm_cancer_TCGA-BLCA.bb
+bigDataUrl all_pas_TCGA-BLCA.bb
 shortLabel BLCA 
 longLabel BLCA cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-CHOL
-bigDataUrl pas_norm_cancer_TCGA-CHOL.bb
+bigDataUrl all_pas_TCGA-CHOL.bb
 shortLabel CHOL 
 longLabel CHOL cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-CESC
-bigDataUrl pas_norm_cancer_TCGA-CESC.bb
+bigDataUrl all_pas_TCGA-CESC.bb
 shortLabel CESC 
 longLabel CESC cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-READ
-bigDataUrl pas_norm_cancer_TCGA-READ.bb
+bigDataUrl all_pas_TCGA-READ.bb
 shortLabel READ 
 longLabel READ cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-PAAD
-bigDataUrl pas_norm_cancer_TCGA-PAAD.bb
+bigDataUrl all_pas_TCGA-PAAD.bb
 shortLabel PAAD 
 longLabel PAAD cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-SARC
-bigDataUrl pas_norm_cancer_TCGA-SARC.bb
+bigDataUrl all_pas_TCGA-SARC.bb
 shortLabel SARC 
 longLabel SARC cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-THYM
-bigDataUrl pas_norm_cancer_TCGA-THYM.bb
+bigDataUrl all_pas_TCGA-THYM.bb
 shortLabel THYM 
 longLabel THYM cancer and norm with counts
 type bigBed 9
 itemRgb on
 
 track TCGA-SKCM
-bigDataUrl pas_norm_cancer_TCGA-SKCM.bb
+bigDataUrl all_pas_TCGA-SKCM.bb
 shortLabel SKCM 
 longLabel SKCM cancer and norm with counts
 type bigBed 9
@@ -154,7 +148,7 @@ itemRgb on
 
 
 track TCGA-PCPG
-bigDataUrl pas_norm_cancer_TCGA-PCPG.bb
+bigDataUrl all_pas_TCGA-PCPG.bb
 shortLabel PCPG 
 longLabel PCPG cancer and norm with counts
 type bigBed 9
