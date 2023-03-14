@@ -78,9 +78,10 @@ bigDataUrl all_pas_TCGA-COAD.bb
 shortLabel COAD 
 longLabel COAD cancer and norm with counts
 type bigBed
-scoreFilter 50
 spectrum on
 scoreMax 1000
+scoreMin 5
+scoreFilter 50
 
 track TCGA-UCEC
 bigDataUrl all_pas_TCGA-UCEC.bb
