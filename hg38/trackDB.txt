@@ -80,8 +80,6 @@ shortLabel COAD
 longLabel COAD cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreMax 1000
-scoreMin 5
 scoreFilter 50
 
 track TCGA-UCEC
