@@ -56,10 +56,11 @@ track TCGA-ESCA
 bigDataUrl all_pas_TCGA-ESCA.bb
 shortLabel ESCA 
 longLabel ESCA cancer and norm with counts
-type bigBed
-scoreFilter 50
+type bigBed 6
 spectrum on
 scoreMax 1000
+scoreMin 5
+scoreFilter 50
 
 track TCGA-KIRP
 bigDataUrl all_pas_TCGA-KIRP.bb
@@ -77,7 +78,7 @@ track TCGA-COAD
 bigDataUrl all_pas_TCGA-COAD.bb
 shortLabel COAD 
 longLabel COAD cancer and norm with counts
-type bigBed
+type bigBed 6
 spectrum on
 scoreMax 1000
 scoreMin 5
