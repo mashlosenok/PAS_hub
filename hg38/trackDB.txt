@@ -45,14 +45,12 @@ bigDataUrl all_pas_TCGA-KIRC.bb
 shortLabel KIRC 
 longLabel KIRC cancer and norm with counts
 type bigBed
-useScore="1"
 
 track TCGA-HNSC
 bigDataUrl all_pas_TCGA-HNSC.bb
 shortLabel HNSC 
 longLabel HNSC cancer and norm with counts
 type bigBed
-useScore="1"
 
 track TCGA-ESCA
 bigDataUrl all_pas_TCGA-ESCA.bb
@@ -133,7 +131,6 @@ bigDataUrl all_pas_TCGA-SKCM.bb
 shortLabel SKCM 
 longLabel SKCM cancer and norm with counts
 type bigBed
-
 
 track TCGA-PCPG
 bigDataUrl all_pas_TCGA-PCPG.bb
