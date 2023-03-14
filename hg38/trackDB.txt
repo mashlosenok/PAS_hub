@@ -4,7 +4,7 @@ shortLabel BRCA
 longLabel BRCA cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-STAD
 bigDataUrl all_pas_TCGA-STAD.bb
@@ -12,7 +12,7 @@ shortLabel STAD
 longLabel STAD cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-PRAD
 bigDataUrl all_pas_TCGA-PRAD.bb
@@ -20,7 +20,7 @@ shortLabel PRAD
 longLabel PRAD cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-THCA
 bigDataUrl all_pas_TCGA-THCA.bb
@@ -28,7 +28,7 @@ shortLabel THCA
 longLabel THCA cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-LUSC
 bigDataUrl all_pas_TCGA-LUSC.bb
@@ -36,7 +36,7 @@ shortLabel LUSC
 longLabel LUSC cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-LUAD
 bigDataUrl all_pas_TCGA-LUAD.bb
@@ -44,7 +44,7 @@ shortLabel LUAD
 longLabel LUAD cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-LIHC
 bigDataUrl all_pas_TCGA-LIHC.bb
@@ -52,7 +52,7 @@ shortLabel LIHC
 longLabel LIHC cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-KIRC
 bigDataUrl all_pas_TCGA-KIRC.bb
@@ -60,7 +60,7 @@ shortLabel KIRC
 longLabel KIRC cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-HNSC
 bigDataUrl all_pas_TCGA-HNSC.bb
@@ -68,7 +68,7 @@ shortLabel HNSC
 longLabel HNSC cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-ESCA
 bigDataUrl all_pas_TCGA-ESCA.bb
@@ -76,7 +76,7 @@ shortLabel ESCA
 longLabel ESCA cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-KIRP
 bigDataUrl all_pas_TCGA-KIRP.bb
@@ -84,7 +84,7 @@ shortLabel KIRP
 longLabel KIRP cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-KICH
 bigDataUrl all_pas_TCGA-KICH.bb
@@ -92,7 +92,7 @@ shortLabel KICH
 longLabel KICH cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-COAD
 bigDataUrl all_pas_TCGA-COAD.bb
@@ -100,7 +100,7 @@ shortLabel COAD
 longLabel COAD cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-UCEC
 bigDataUrl all_pas_TCGA-UCEC.bb
@@ -108,7 +108,7 @@ shortLabel UCEC
 longLabel UCEC cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-BLCA
 bigDataUrl all_pas_TCGA-BLCA.bb
@@ -116,7 +116,7 @@ shortLabel BLCA
 longLabel BLCA cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-CHOL
 bigDataUrl all_pas_TCGA-CHOL.bb
@@ -124,7 +124,7 @@ shortLabel CHOL
 longLabel CHOL cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-CESC
 bigDataUrl all_pas_TCGA-CESC.bb
@@ -132,7 +132,7 @@ shortLabel CESC
 longLabel CESC cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-READ
 bigDataUrl all_pas_TCGA-READ.bb
@@ -140,7 +140,7 @@ shortLabel READ
 longLabel READ cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-PAAD
 bigDataUrl all_pas_TCGA-PAAD.bb
@@ -148,7 +148,7 @@ shortLabel PAAD
 longLabel PAAD cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-SARC
 bigDataUrl all_pas_TCGA-SARC.bb
@@ -156,7 +156,7 @@ shortLabel SARC
 longLabel SARC cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-THYM
 bigDataUrl all_pas_TCGA-THYM.bb
@@ -164,7 +164,7 @@ shortLabel THYM
 longLabel THYM cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-SKCM
 bigDataUrl all_pas_TCGA-SKCM.bb
@@ -172,7 +172,7 @@ shortLabel SKCM
 longLabel SKCM cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-PCPG
 bigDataUrl all_pas_TCGA-PCPG.bb
@@ -180,7 +180,7 @@ shortLabel PCPG
 longLabel PCPG cancer and norm with counts
 type bigBed 6
 spectrum on
-scoreFilter 50
+scoreFilter 25
 
 track TCGA-all
 bigDataUrl pasc_gtex_tcga_wpAcounts_tumour_norm.bb
