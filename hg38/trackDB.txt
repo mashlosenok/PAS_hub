@@ -58,6 +58,7 @@ shortLabel ESCA
 longLabel ESCA cancer and norm with counts
 type bigBed
 spectrum on
+scoreMax 1000
 
 track TCGA-KIRP
 bigDataUrl all_pas_TCGA-KIRP.bb
@@ -77,6 +78,7 @@ shortLabel COAD
 longLabel COAD cancer and norm with counts
 type bigBed
 spectrum on
+scoreMax 1000
 
 track TCGA-UCEC
 bigDataUrl all_pas_TCGA-UCEC.bb
