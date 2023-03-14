@@ -57,7 +57,7 @@ bigDataUrl all_pas_TCGA-ESCA.bb
 shortLabel ESCA 
 longLabel ESCA cancer and norm with counts
 type bigBed
-scoreFilterLimits 5:1000
+scoreFilter 50
 spectrum on
 scoreMax 1000
 
@@ -78,7 +78,7 @@ bigDataUrl all_pas_TCGA-COAD.bb
 shortLabel COAD 
 longLabel COAD cancer and norm with counts
 type bigBed
-scoreFilterLimits 5:1000
+scoreFilter 50
 spectrum on
 scoreMax 1000
 
