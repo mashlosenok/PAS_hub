@@ -2,7 +2,7 @@ track TCGA-BRCA
 bigDataUrl all_pas_TCGA-BRCA.bb
 shortLabel BRCA 
 longLabel BRCA cancer and norm with counts
-type bigBed 6
+type bigBed 6 .
 spectrum on
 scoreFilter 10
 
@@ -10,7 +10,7 @@ track TCGA-STAD
 bigDataUrl all_pas_TCGA-STAD.bb
 shortLabel STAD 
 longLabel STAD cancer and norm with counts
-type bigBed 6
+type bigBed 6 .
 spectrum on
 scoreFilter 10
 
@@ -18,7 +18,7 @@ track TCGA-PRAD
 bigDataUrl all_pas_TCGA-PRAD.bb
 shortLabel PRAD 
 longLabel PRAD cancer and norm with counts
-type bigBed 6
+type bigBed 6 .
 spectrum on
 scoreFilter 10
 
@@ -26,7 +26,7 @@ track TCGA-THCA
 bigDataUrl all_pas_TCGA-THCA.bb
 shortLabel THCA 
 longLabel THCA cancer and norm with counts
-type bigBed 6
+type bigBed 6 .
 spectrum on
 scoreFilter 10
 
@@ -34,7 +34,7 @@ track TCGA-LUSC
 bigDataUrl all_pas_TCGA-LUSC.bb
 shortLabel LUSC 
 longLabel LUSC cancer and norm with counts
-type bigBed 6
+type bigBed 6 .
 spectrum on
 scoreFilter 10
 
@@ -42,7 +42,7 @@ track TCGA-LUAD
 bigDataUrl all_pas_TCGA-LUAD.bb
 shortLabel LUAD 
 longLabel LUAD cancer and norm with counts
-type bigBed 6
+type bigBed 6 .
 spectrum on
 scoreFilter 10
 
@@ -50,7 +50,7 @@ track TCGA-LIHC
 bigDataUrl all_pas_TCGA-LIHC.bb
 shortLabel LIHC 
 longLabel LIHC cancer and norm with counts
-type bigBed 6
+type bigBed 6 .
 spectrum on
 scoreFilter 10
 
